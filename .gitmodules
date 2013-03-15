@@ -1,3 +1,15 @@
 [submodule "zsh/stderred"]
 	path = zsh/stderred
 	url = git://github.com/sickill/stderred.git
+[submodule "hyperboria/cjdns"]
+	path = hyperboria/cjdns
+	url = https://github.com/cjdelisle/cjdns
+[submodule "zsh/grc"]
+	path = zsh/grc
+	url = https://github.com/pengwynn/grc
+[submodule "zsh/oh-my-zsh"]
+	path = zsh/oh-my-zsh
+	url = https://github.com/robbyrussell/oh-my-zsh.git
+[submodule "zsh/zsh-syntax-highlighting"]
+	path = zsh/zsh-syntax-highlighting
+	url = https://github.com/zsh-users/zsh-syntax-highlighting
