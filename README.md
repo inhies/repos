@@ -1,5 +1,5 @@
-My Dotfiles
-===========
+My Repos Repo
+=============
 
 This is my attempt at keeping a bunch of projects organized. I tend to end up
 with files scattered everywhere and then having to manually update when I think
